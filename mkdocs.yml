@@ -1,6 +1,6 @@
 site_name: pamDocs
 nav:
   - Home: index.md
-  - About: /index.html
-  - Docker: site/docker/index.html
+  - About: docs/index.html
+  - Docker: docs/site/docker/index.html
 theme: readthedocs
