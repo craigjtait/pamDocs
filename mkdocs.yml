@@ -3,4 +3,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Docker: docker.md
+  - Mongo: mongo.md
+  - Github: github.md
+  - Syncthing: syncthing.md
 theme: readthedocs
